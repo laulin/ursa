@@ -1,0 +1,1 @@
+rshell -p /dev/ttyUSB0 -b 115200 --buffer-size 128 cp ursa/* /pyboard/ursa/
